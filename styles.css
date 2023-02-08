@@ -93,3 +93,11 @@ footer:hover {
 footer a {
   color: var(--text-color);
 }
+
+/*@media (min-width: 700px) {
+  .container {
+    max-width: 670px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}*/
