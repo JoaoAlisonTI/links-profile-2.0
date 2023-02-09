@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É basicamente um Linktree construindo a base de HTML e CSS. Foi Desenvolvido como um projeto inicial para treinar as habilidades e os conhecimentos acerca de HTML/CSS. Além de que pode ser implementadas outras funcionalidades com JavaScript, reestruturando-o em um App com React ou não, interessante 👀.
 
-- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/Projeto-Maratona-Explorer-2.0/)
+- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/links-profile-2.0/)
 
 
 ---
