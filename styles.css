@@ -63,7 +63,7 @@ ul li a {
   display: flex;
   align-items: center;
   justify-content: center;
- background: #4263EB; 
+ background: #A61E4D; 
 /* background: #D6336C;*/
   color: white;
   text-transform: uppercase;
@@ -76,7 +76,7 @@ ul li a {
 }
 /*pseudo-class*/
 ul li a:hover {
- background: #364FC7;
+ background: #A61E3D;
 /* background: #A61E4D;*/
 }
 
